@@ -1,0 +1,17 @@
+{
+  "name": "alwaysyou-birthday-surprise",
+  "version": "1.0.0",
+  "description": "Pixel-perfect recreation of the AlwaysYou Birthday Surprise Experience",
+  "main": "serve.js",
+  "scripts": {
+    "start": "node serve.js",
+    "dev": "node serve.js"
+  },
+  "keywords": [
+    "birthday",
+    "surprise",
+    "alwaysyou"
+  ],
+  "author": "",
+  "license": "MIT"
+}

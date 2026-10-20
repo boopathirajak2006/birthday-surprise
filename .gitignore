@@ -1,0 +1,42 @@
+# Dependency directories
+node_modules/
+
+# Temporary Edge browser test profiles and caches
+temp_edge_*
+.tempmediaStorage/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment and sensitive files
+.env
+.env.*
+*.log
+
+# Scratch analysis and temporary preview captures
+*.tmp
+screens_dump.txt
+preview_screen*.png
+vid_frame_*.png
+all_ref_assets.png
+ref_live_screen1.png
+assets_preview.html
+ref_bundle.js
+ref_styles.css
+test_cake_and_albums.js
+analyze_bundle.js
+capture_all_screens.js
+capture_preview.js
+download_photos.js
+download_ref_assets.js
+dump_screens.js
+extract_assets.js
+extract_decorations.js
+extract_video_frames.js
+find_asset_usage.js
+find_screens.js
+inspect_components.js
+inspect_ref.js
+video_player.html
